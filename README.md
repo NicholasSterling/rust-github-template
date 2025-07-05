@@ -8,7 +8,7 @@ See the project [website](https://rust-github.github.io).
 But I (Nicholas) added in aspects of this template:
 https://github.com/tomkarw/opinionated-rust-template
 
-To use:
+To use:\
 cargo generate --git https://github.com/NicholasSterling/rust-github-template.git \
 cd into it\
 jj git init --colocate
