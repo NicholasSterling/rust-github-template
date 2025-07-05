@@ -9,6 +9,6 @@ But I (Nicholas) added in aspects of this template:
 https://github.com/tomkarw/opinionated-rust-template
 
 To use:
-cargo generate --git https://github.com/NicholasSterling/rust-github-template.git\
+cargo generate --git https://github.com/NicholasSterling/rust-github-template.git \
 cd into it\
 jj git init --colocate
